@@ -1,5 +1,6 @@
 import Chiste from "./Chiste";
 import React, {Component} from "react";
+import Tiempo from "./Tiempo";
 
 
 
@@ -7,7 +8,7 @@ import React, {Component} from "react";
 function App() {
   return (
     <div>
-      
+    <Tiempo/>
     <Chiste/>
     
           

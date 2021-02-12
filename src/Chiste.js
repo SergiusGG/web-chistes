@@ -30,7 +30,7 @@ const Style = styled.div`
   font-size: 1.2rem;
   width: 600px;
   margin-left:600px;
-  margin-top:120px;
+  margin-top:60px;
   background-color: white;
   padding:50px;
   display: inline-block;
